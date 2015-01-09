@@ -4,6 +4,12 @@ checklist tutorial
 
 try to do a checklist app
 
-test:
-commit to new branch: readme-edits
+task 1:
+Open an Issue
+Create a Branch: readme-edits
+Make a Commit to new branch: readme-edits
 commit file: README.md
+Open a Pull Request
+Merge Pull Request
+done
+
